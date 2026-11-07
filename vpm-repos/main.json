@@ -1,0 +1,20 @@
+{
+  "name": "bwdwuw tools",
+  "author": "bwdwuw-design",
+  "id": "io.github.bwdwuw-design",
+  "url": "https://bwdwuw-design.github.io/vpm-repos/main.json",
+  "packages": {
+    "local.avatarsafetytool": {
+      "versions": {
+        "1.0.0": {
+          "name": "local.avatarsafetytool",
+          "displayName": "Avatar Safety Tool",
+          "version": "1.0.0",
+          "unity": "2022.3",
+          "description": "Avatar preflight check, parts preview with delete-risk analysis and texture report. Tools > Avatar Safety Tool.",
+          "url": "https://github.com/bwdwuw-design/avatar-safety-tool/releases/download/v1.0.0/local.avatarsafetytool-1.0.0.zip"
+        }
+      }
+    }
+  }
+}
