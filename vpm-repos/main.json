@@ -6,13 +6,13 @@
   "packages": {
     "local.avatarsafetytool": {
       "versions": {
-        "1.0.0": {
+        "2.0.0": {
           "name": "local.avatarsafetytool",
           "displayName": "Avatar Safety Tool",
-          "version": "1.0.0",
+          "version": "2.0.0",
           "unity": "2022.3",
-          "description": "Avatar preflight check, parts preview with delete-risk analysis and texture report. Tools > Avatar Safety Tool.",
-          "url": "https://github.com/bwdwuw-design/avatar-safety-tool/releases/download/v1.0.0/local.avatarsafetytool-1.0.0.zip"
+          "description": "VRChat avatar slimming and safety tool.",
+          "url": "https://github.com/bwdwuw-design/Avatar-Safety-Tool-v2/releases/download/v2.0.0/local.avatarsafetytool-2.0.0.zip"
         }
       }
     }
